@@ -1,5 +1,5 @@
 #include <iostream>
-#include "main.h"
+#include "dec.h"
 
 using namespace std;
 int main(){
